@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea1950ae-78e7-44a7-baee-a6dda91cb3d1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/learn/dp/mediator/ChatRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learn/dp/mediator/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ea1950ae-78e7-44a7-baee-a6dda91cb3d1" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,39 +11,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ChatRoom.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/learn/dp/mediator/ChatRoom.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MediatorPatternDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learn/dp/mediator/MediatorPatternDemo.java">
+      <file leaf-file-name="Memento.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/learn/dp/memento/Memento.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+              <folding>
+                <element signature="e#110#111#0" expanded="true" />
+                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learn/dp/mediator/User.java">
+      <file leaf-file-name="Originator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/learn/dp/memento/Originator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="270">
+              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
               <folding>
-                <element signature="e#102#103#0" expanded="true" />
-                <element signature="e#129#130#0" expanded="true" />
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CareTaker.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/learn/dp/memento/CareTaker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#157#166#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MementoPatternDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/learn/dp/memento/MementoPatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -68,10 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/learn/dp/prototype/PrototypePatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/learn/dp/builder/BuilderPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/learn/dp/bridge/DrawAPI.java" />
-        <option value="$PROJECT_DIR$/src/learn/dp/bridge/GreenCircle.java" />
         <option value="$PROJECT_DIR$/src/learn/dp/bridge/Circle.java" />
         <option value="$PROJECT_DIR$/src/learn/dp/bridge/BridgePatternDemo.java" />
         <option value="$PROJECT_DIR$/src/learn/dp/bridge/Shape.java" />
@@ -119,6 +133,10 @@
         <option value="$PROJECT_DIR$/src/learn/dp/mediator/User.java" />
         <option value="$PROJECT_DIR$/src/learn/dp/mediator/ChatRoom.java" />
         <option value="$PROJECT_DIR$/src/learn/dp/mediator/MediatorPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/learn/dp/memento/Memento.java" />
+        <option value="$PROJECT_DIR$/src/learn/dp/memento/Originator.java" />
+        <option value="$PROJECT_DIR$/src/learn/dp/memento/CareTaker.java" />
+        <option value="$PROJECT_DIR$/src/learn/dp/memento/MementoPatternDemo.java" />
       </list>
     </option>
   </component>
@@ -192,7 +210,7 @@
               <item name="LearnDesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="mediator" type="462c0819:PsiDirectoryNode" />
+              <item name="memento" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -222,7 +240,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MediatorPatternDemo">
+  <component name="RunManager" selected="Application.MementoPatternDemo">
     <configuration name="AbstractFactoryPattern" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="learn.dp.abstractfactory.AbstractFactoryPatternDemo" />
       <module name="LearnDesignPattern" />
@@ -291,6 +309,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="learn.dp.mediator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MementoPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learn.dp.memento.MementoPatternDemo" />
+      <module name="LearnDesignPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learn.dp.memento.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -373,9 +402,11 @@
       <item itemvalue="Application.ProxyPatternDemo" />
       <item itemvalue="Application.ChainPatternDemo" />
       <item itemvalue="Application.MediatorPatternDemo" />
+      <item itemvalue="Application.MementoPatternDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MementoPatternDemo" />
         <item itemvalue="Application.MediatorPatternDemo" />
         <item itemvalue="Application.ChainPatternDemo" />
         <item itemvalue="Application.ProxyPatternDemo" />
@@ -412,7 +443,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32955405" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33114755" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33114755" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32786885" />
       <window_info id="Capture Tool" order="2" />
@@ -479,34 +510,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/learn/dp/bridge/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learn/dp/bridge/GreenCircle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learn/dp/bridge/BridgePatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learn/dp/bridge/RedCircle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/learn/dp/bridge/DrawAPI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -844,8 +847,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/learn/dp/mediator/ChatRoom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/dp/memento/CareTaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#157#166#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/dp/memento/Memento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/dp/memento/MementoPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/dp/memento/Originator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
