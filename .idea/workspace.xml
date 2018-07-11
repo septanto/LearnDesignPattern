@@ -13,6 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< Updated upstream
       <file leaf-file-name="Subject.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/learn/dp/observer/Subject.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -81,6 +82,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+=======
+      <file leaf-file-name="Iterator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/learn/dp/iterator/Iterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -101,6 +109,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< Updated upstream
+=======
+        <option value="$PROJECT_DIR$/src/learn/dp/filter/Criteria.java" />
+        <option value="$PROJECT_DIR$/src/learn/dp/filter/CriteriaMale.java" />
+>>>>>>> Stashed changes
         <option value="$PROJECT_DIR$/src/learn/dp/filter/CriteriaSingle.java" />
         <option value="$PROJECT_DIR$/src/learn/dp/filter/AndCriteria.java" />
         <option value="$PROJECT_DIR$/src/learn/dp/filter/OrCriteria.java" />
@@ -138,6 +151,7 @@
         <option value="$PROJECT_DIR$/src/learn/dp/chainofresp/ErrorLogger.java" />
         <option value="$PROJECT_DIR$/src/learn/dp/chainofresp/FileLogger.java" />
         <option value="$PROJECT_DIR$/src/learn/dp/chainofresp/ChainPatternDemo.java" />
+<<<<<<< Updated upstream
         <option value="$PROJECT_DIR$/src/learn/dp/mediator/User.java" />
         <option value="$PROJECT_DIR$/src/learn/dp/mediator/ChatRoom.java" />
         <option value="$PROJECT_DIR$/src/learn/dp/mediator/MediatorPatternDemo.java" />
@@ -152,6 +166,20 @@
         <option value="$PROJECT_DIR$/src/learn/dp/observer/HexaObserver.java" />
         <option value="$PROJECT_DIR$/src/learn/dp/observer/ObserverPatternDemo.java" />
         <option value="$PROJECT_DIR$/src/learn/dp/observer/Subject.java" />
+=======
+        <option value="$PROJECT_DIR$/src/learn/dp/command/Order.java" />
+        <option value="$PROJECT_DIR$/src/learn/dp/command/BuyStock.java" />
+        <option value="$PROJECT_DIR$/src/learn/dp/command/Broker.java" />
+        <option value="$PROJECT_DIR$/src/learn/dp/command/CommandPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/learn/dp/command/SellStock.java" />
+        <option value="$PROJECT_DIR$/src/learn/dp/command/Stock.java" />
+        <option value="$PROJECT_DIR$/src/learn/dp/interpreter/Expression.java" />
+        <option value="$PROJECT_DIR$/src/learn/dp/interpreter/TerminalExpression.java" />
+        <option value="$PROJECT_DIR$/src/learn/dp/interpreter/OrExpression.java" />
+        <option value="$PROJECT_DIR$/src/learn/dp/interpreter/AndExpression.java" />
+        <option value="$PROJECT_DIR$/src/learn/dp/interpreter/InterpretrPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/learn/dp/iterator/Iterator.java" />
+>>>>>>> Stashed changes
       </list>
     </option>
   </component>
@@ -170,11 +198,19 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
+<<<<<<< Updated upstream
   <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="693" />
     <option name="y" value="25" />
     <option name="width" value="673" />
     <option name="height" value="741" />
+=======
+  <component name="ProjectFrameBounds">
+    <option name="x" value="683" />
+    <option name="y" value="23" />
+    <option name="width" value="1365" />
+    <option name="height" value="1129" />
+>>>>>>> Stashed changes
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -184,6 +220,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< Updated upstream
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -200,6 +237,10 @@
           <select />
         </subPane>
       </pane>
+=======
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+>>>>>>> Stashed changes
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,14 +264,37 @@
               <item name="LearnDesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dp" type="462c0819:PsiDirectoryNode" />
+<<<<<<< Updated upstream
               <item name="observer" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="iterator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="LearnDesignPattern" type="cbb8eebc:String" user="LearnDesignPattern" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="LearnDesignPattern" type="cbb8eebc:String" user="LearnDesignPattern" />
+              <item name="src/learn/dp" type="cbb8eebc:String" user="src/learn/dp" />
+>>>>>>> Stashed changes
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+<<<<<<< Updated upstream
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
+=======
+>>>>>>> Stashed changes
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -255,7 +319,11 @@
       </list>
     </option>
   </component>
+<<<<<<< Updated upstream
   <component name="RunManager" selected="Application.ObserverPatternDemo">
+=======
+  <component name="RunManager" selected="Application.InterpretrPatternDemo">
+>>>>>>> Stashed changes
     <configuration name="AbstractFactoryPattern" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="learn.dp.abstractfactory.AbstractFactoryPatternDemo" />
       <module name="LearnDesignPattern" />
@@ -283,6 +351,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="learn.dp.chainofresp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="CommandPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learn.dp.command.CommandPatternDemo" />
+      <module name="LearnDesignPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learn.dp.command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,12 +396,18 @@
       <module name="LearnDesignPattern" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="MediatorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learn.dp.mediator.MediatorPatternDemo" />
+=======
+    <configuration name="InterpretrPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learn.dp.interpreter.InterpretrPatternDemo" />
+>>>>>>> Stashed changes
       <module name="LearnDesignPattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
+<<<<<<< Updated upstream
           <option name="PATTERN" value="learn.dp.mediator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
@@ -346,6 +431,9 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="learn.dp.observer.*" />
+=======
+          <option name="PATTERN" value="learn.dp.interpreter.*" />
+>>>>>>> Stashed changes
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -427,6 +515,7 @@
       <item itemvalue="Application.CompositePattern" />
       <item itemvalue="Application.ProxyPatternDemo" />
       <item itemvalue="Application.ChainPatternDemo" />
+<<<<<<< Updated upstream
       <item itemvalue="Application.MediatorPatternDemo" />
       <item itemvalue="Application.MementoPatternDemo" />
       <item itemvalue="Application.ObserverPatternDemo" />
@@ -436,6 +525,15 @@
         <item itemvalue="Application.ObserverPatternDemo" />
         <item itemvalue="Application.MementoPatternDemo" />
         <item itemvalue="Application.MediatorPatternDemo" />
+=======
+      <item itemvalue="Application.CommandPatternDemo" />
+      <item itemvalue="Application.InterpretrPatternDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InterpretrPatternDemo" />
+        <item itemvalue="Application.CommandPatternDemo" />
+>>>>>>> Stashed changes
         <item itemvalue="Application.ChainPatternDemo" />
         <item itemvalue="Application.ProxyPatternDemo" />
       </list>
@@ -452,35 +550,57 @@
       <option name="presentableId" value="Default" />
       <updated>1525246081200</updated>
       <workItem from="1530179939359" duration="2248000" />
+      <workItem from="1530497873790" duration="3611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2248000" />
+    <option name="totallyTimeSpent" value="12234000" />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< Updated upstream
     <frame x="693" y="25" width="673" height="741" extended-state="4" />
+=======
+    <frame x="683" y="23" width="1365" height="1129" extended-state="0" />
+>>>>>>> Stashed changes
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< Updated upstream
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32894737" />
+=======
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32931727" />
+>>>>>>> Stashed changes
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Gerrit" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32955405" />
+<<<<<<< Updated upstream
+=======
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32945737" />
+>>>>>>> Stashed changes
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3305921" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32894737" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
+<<<<<<< Updated upstream
       <window_info content_ui="combo" id="Project" order="0" weight="0.47208932" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2191988" />
+      <window_info anchor="bottom" id="SonarLint" order="8" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32955405" />
+>>>>>>> Stashed changes
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
+<<<<<<< Updated upstream
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995984" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -494,6 +614,16 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Database" order="4" weight="0.32955405" />
+=======
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Learn" order="2" weight="0.32981133" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Statistic" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" />
+>>>>>>> Stashed changes
     </layout>
     <layout-to-restore>
       <window_info id="Designer" order="2" />
@@ -537,6 +667,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/learn/dp/filter/CriteriaMale.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -544,6 +675,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/src/learn/dp/filter/Criteria.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -743,7 +876,7 @@
     <entry file="file://$PROJECT_DIR$/src/learn/dp/proxy/ProxyPatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -756,15 +889,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/learn/dp/proxy/RealImage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/learn/dp/proxy/Image.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -798,6 +931,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/learn/dp/chainofresp/AbstractLogger.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="375">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
@@ -831,6 +965,10 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="405">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -863,25 +1001,35 @@
     <entry file="file://$PROJECT_DIR$/src/learn/dp/observer/OctalObserver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
+<<<<<<< Updated upstream
           <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#236#237#0" expanded="true" />
           </folding>
+=======
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/learn/dp/observer/HexaObserver.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="180">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#234#235#0" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="150">
+          <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/learn/dp/observer/ObserverPatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="210">
           <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
         </state>
@@ -899,6 +1047,10 @@
             <element signature="e#389#390#0" expanded="true" />
             <element signature="e#414#415#0" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -917,6 +1069,124 @@
             <element signature="e#238#239#0" expanded="true" />
             <element signature="e#274#275#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-979" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/dp/command/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/dp/command/Stock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/dp/command/BuyStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/dp/command/SellStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/dp/command/CommandPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/dp/command/Broker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#151#158#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/dp/interpreter/InterpretrPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="101" selection-start-line="23" selection-start-column="101" selection-end-line="23" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/dp/interpreter/Expression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/dp/interpreter/TerminalExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/dp/interpreter/OrExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/dp/interpreter/AndExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/dp/iterator/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
